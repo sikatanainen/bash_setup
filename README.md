@@ -1,2 +1,1 @@
-# conf-fedora
-fedora silverblueの設定
+# bash　初期設定
